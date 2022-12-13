@@ -1,9 +1,7 @@
-@file:Suppress("UnstableApiUsage", "LocalVariableName")
-
 import org.gradle.api.initialization.resolve.RepositoriesMode.FAIL_ON_PROJECT_REPOS
 
 // Basic configuration
-rootProject.name = "kotlin-project-template"
+rootProject.name = "ktor-project-template"
 
 // Project-level plugins
 pluginManagement {
